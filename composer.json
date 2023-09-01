@@ -2,7 +2,7 @@
     "name": "hellobrave/core",
     "description": "Magento 2 extension to support and register all other HelloBrave Magento 2 extensions.",
     "type": "magento2-module",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
